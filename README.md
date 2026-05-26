@@ -24,3 +24,12 @@ The script produces:
 - country-level ROE analysis
 - comparison with the SSM aggregate
 - automated draft emails with embedded charts
+
+## Example of output
+1. With available data
+   
+<img width="1362" height="915" alt="image" src="https://github.com/user-attachments/assets/a9f3b06b-5a4d-4773-8400-042a04952a11" />
+
+2. Without available data
+
+<img width="1360" height="919" alt="image" src="https://github.com/user-attachments/assets/c70faebb-62c5-4e1c-b3ac-6e75024d17e2" />
